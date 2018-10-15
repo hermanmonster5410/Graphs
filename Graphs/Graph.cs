@@ -6,6 +6,7 @@ namespace Graphs
         public Graph()
         {
 
+
         }
     }
 }
